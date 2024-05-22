@@ -1,0 +1,57 @@
+{
+  "mod_elements": [
+    {
+      "name": "GlobalMiasmaRate",
+      "type": "gamerule",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "global_miasma_rate",
+      "metadata": {
+        "files": [],
+        "type": "number"
+      }
+    },
+    {
+      "name": "MiasmaFlowFraction",
+      "type": "gamerule",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miasma_flow_fraction",
+      "metadata": {
+        "files": [],
+        "type": "number"
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "gamerule.globalMiasmaRate": "Global Miasma Rate",
+      "gamerule.miasmaFlowFraction.description": "The amount of miasma that is balanced to neighboring chunks",
+      "gamerule.miasmaFlowFraction": "Miasma Flow Fraction",
+      "gamerule.globalMiasmaRate.description": "Affects global miasma production"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "born_from_miasma",
+    "modName": "Born From Miasma",
+    "version": "1.0.0",
+    "author": "Andrew, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "io.github.star1954.born_from_miasma"
+  },
+  "mcreatorVersion": 202400118518
+}
