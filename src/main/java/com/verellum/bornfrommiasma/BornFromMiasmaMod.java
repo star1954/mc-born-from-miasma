@@ -1,4 +1,4 @@
-package io.github.star1954.born_from_miasma;
+package com.verellum.bornfrommiasma;
 
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
