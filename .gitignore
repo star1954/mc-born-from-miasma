@@ -37,3 +37,6 @@ out
 ##Unneeded stuff
 build
 run
+
+#MCreator stuff
+*mcreator-backup*
