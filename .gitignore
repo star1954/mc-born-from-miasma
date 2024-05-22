@@ -26,6 +26,7 @@ forge*changelog.txt
 
 #MCreator stuff
 *mcreator-backup*
+.mcreator/generatorGradleCache
 
 ### OSX (adds a lot of garbage)###
 .DS_Store
