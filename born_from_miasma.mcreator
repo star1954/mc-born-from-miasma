@@ -14,16 +14,17 @@
     "modid": "born_from_miasma",
     "modName": "Born From Miasma",
     "version": "1.0.0",
-    "author": "Andrew, MCreator",
-    "websiteURL": "https://mcreator.net",
-    "license": "Not specified",
+    "author": "Star1954",
+    "websiteURL": "https://github.com/star1954",
+    "license": "MIT License",
     "serverSideOnly": false,
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "forge-1.20.1",
-    "modElementsPackage": "com.verellum.bornfrommiasma"
+    "credits": "WIth gratitude to a certain empire of safes",
+    "modElementsPackage": "io.github.star1954.born_from_miasma"
   },
   "mcreatorVersion": 202400118518
 }
